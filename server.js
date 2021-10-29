@@ -7,7 +7,7 @@ const dbConnection = require('./database/connection');
 dotEnv.config();
 
 const app = express();
-
+//dummy
 // db connectivity
 dbConnection();
 
